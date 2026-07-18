@@ -1,0 +1,10 @@
+Data engineering-> pipelines ->data scientist
+
+python is dynamic typed language thats why it is used everywhere
+
+lower() -> used to lowercase all elements in the string
+
+strip() -> used to remove blank spaces at the starting and ending of the string
+
+to make a null python file(empty) -> on cmd or powershell -> type nul> file name
+step 11
